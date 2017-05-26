@@ -1,5 +1,6 @@
-# personal-finance-notes
-A quick notes on personal finance that I've learned from my friends and different books. 
+## Notes on personal finance that I've learned from my friends and different books. 
+
+Here is the [list of books](https://booknshelf.com/topics/investing) I recommend to read.
 
 
 ### Emergency Fund
