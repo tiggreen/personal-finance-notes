@@ -1,6 +1,6 @@
 ## Notes on personal finance that I've learned from friends and books. 
 
-Here is the [list of books](https://booknshelf.com/topics/investing) I recommend to read if you want learn about personal finance and investing. Highly recommend to start from [A Random Walk down Wall Street](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=sr_1_1?s=books&ie=UTF8&qid=1495799357&sr=1-1&keywords=A+Random+Walk+Down+Wall+Street%3A).
+Here is the [list of books](https://booknshelf.com/topics/investing) I recommend to read if you want learn about personal finance and investing. Highly recommend to start from [A Random Walk down Wall Street](https://www.amazon.com/Random-Walk-down-Wall-Street/dp/0393352242/ref=sr_1_1?s=books&ie=UTF8&qid=1495799357&sr=1-1&keywords=A+Random+Walk+Down+Wall+Street%3A). It's a great book for beginners that introduces the main concepts of investing and personal finance.
 
 
 ### Emergency Fund
