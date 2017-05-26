@@ -29,7 +29,6 @@ A quick notes on personal finance that I've learned from my friends and differen
 
 
 If you need your money in a year or less (short term investment), you better stick with low-risk investments that are easy to access, like money market funds or savings accounts.
-- 
   
 ### Saving for house down payment
  - Intermediate term bonds
